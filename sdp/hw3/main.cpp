@@ -1,4 +1,4 @@
-//Василка Михтарска 1гр. ФН:45053
+
 #include <iostream>
 #include "StringArray.h"
 
