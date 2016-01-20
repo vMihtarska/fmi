@@ -1,4 +1,4 @@
-//Василка Михтарска фн:45053 1 група
+
 #include <iostream>
 using namespace std;
 const int Max_Size = 100;
