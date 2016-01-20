@@ -4,11 +4,11 @@
 int main()
 {
 	
-	Vector c(3);			//Създава нулев вектор с 3 координати
-	c[0] = 1;				//Задаване на стойности
-	std::cout << c[1]		//Принтиране на дадена координата
+	Vector c(3);			
+	c[0] = 1;				
+	std::cout << c[1]		
 		<<std::endl; 
-	Vector p(c);			//Копиране от един в др вектор
+	Vector p(c);			
 	p[2] = 3;
 	std::cout << "c ";
 	c.print();	
@@ -50,7 +50,7 @@ int main()
 		b[i] = i;
 	std::cout << "b ";
 	b.print();
-	//При различни размерности 
+	
 	std::cout << "m+b ";			
 	(m+b).print();
 	std::cout << "b+m ";
