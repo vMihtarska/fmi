@@ -1,4 +1,3 @@
-//Василка Михтарска 1 група
 #include <iostream>
 #include <cmath>
 
