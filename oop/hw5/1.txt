@@ -1,0 +1,8 @@
+circle 0 0 0
+triangle 0 0 0 0 0 0
+group in 2.0 -1.0
+rect -1.0 -1.0 2.0 2.0
+circle 10 10 3
+rect 10 10 10 10
+group out
+triangle 0 0 0 0 0 0
