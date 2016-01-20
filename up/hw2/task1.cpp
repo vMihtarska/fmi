@@ -1,4 +1,4 @@
-//Василка Михтарска 1 група Фак.номер 45053
+
 #include <iostream>
 using namespace std;
 
