@@ -1,5 +1,5 @@
-#pragma once
-
+//Василка Михтарска 1 група
+#include <iostream>
 #include <cmath>
 
 int countDigits(int n) {
@@ -24,3 +24,11 @@ void automorphicNumbers() {
 			std::cout << i << "\n";
 	}
 }
+
+using namespace std;
+int main()
+{
+   automorphicNumbers();
+   return 0;
+}
+
