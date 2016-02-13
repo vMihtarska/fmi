@@ -1,4 +1,4 @@
-// Василка Михтарска 
+
 #include <iostream>
 using namespace std;
 int const MAX_SIZE = 50;
@@ -60,7 +60,7 @@ int main()
 
 	ReadArray(a, n);
 
-	int k=0, p = 0;   // Заместител на row и colm
+	int k=0, p = 0;   // Г‡Г Г¬ГҐГ±ГІГЁГІГҐГ« Г­Г  row ГЁ colm
 	
 	while (k <= n - 1 && p <=n - 1)
 	{
@@ -69,7 +69,7 @@ int main()
 		RightToLeft(a, k, p, n);
 		DownToUp(a, k, p, n);
 		
-		n--;      // Обхождаме матрицата n-1  и тн.. 
+		n--;      // ГЋГЎГµГ®Г¦Г¤Г Г¬ГҐ Г¬Г ГІГ°ГЁГ¶Г ГІГ  n-1  ГЁ ГІГ­.. 
 		k++; 
 		p++;
 	}

@@ -1,4 +1,4 @@
-//Василка Михтарска 45053
+
 
 #include <iostream>
 #include <string>

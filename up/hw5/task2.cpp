@@ -1,4 +1,4 @@
-//Василка Михтарска
+
 #include <iostream>
 using namespace std;
 int const Max_Size = 1000;

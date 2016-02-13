@@ -1,4 +1,4 @@
-//Василка Михтарска ФН:45053 
+
 #include<iostream>
 #include<fstream>
 #include "image.h"

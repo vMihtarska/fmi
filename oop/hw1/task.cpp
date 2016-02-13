@@ -1,4 +1,4 @@
-//Василка Михтарска Фак.номер:45053 1група
+
 #include <iostream>
 #include <fstream>
 #include <cstring>
